@@ -1,0 +1,114 @@
+\chapter{Intento de Contexto Previo Mínimo}
+
+	\section{Relaciones no aplicación}
+
+	\noindent
+	Tanto la TPI como la DI, están basadas en relaciones que no son aplicación: la flja\_abstracta y las diferentes $r_{\theta_{k}}$. En realidad son lo mismo. TODAS son en el sentido:\\
+	$r: P(\mathbb{N}) \rightarrow \mathbb{N}$\\
+	\textit{* Sí, invierto el orden común... y te estoy mintiendo un poco... para ir rápido... en realidad son 'subconjuntos transformados´ de ellos dos, con sus mismos cardinales, pero esa es otra historia... Me pides cosas concretas, que no siguen el orden natural de exposición, y eso me obliga a saltarme cosas... y adaptarlas para tí y esta carta. En su debido momento deberías autorizar dichas transformaciones, pero ya lo han hecho otros antes que tú. Son correctas. Debes creerme :D, hasta que tengas tiempo de verlo por tí mismo.}
+	\\\\
+	
+	\noindent
+	Llamemos:\\
+	R-pares: a los pares de las relaciones. ( elemento de $P(\mathbb{N})$, elemento de $\mathbb{N}$ ).\\
+	D-pares: a pares creados con elementos del Dominio, o sea $P(\mathbb{N})$. ( elemento de $P(\mathbb{N})$, elemento de $P(\mathbb{N})$ ).
+	\\\\
+	
+	\noindent
+	No voy a definirte en este documento la flja\_abstracta, pero es una relación; un conjunto de pares; R-pares. Como conjunto, se le puede hacer una partición. Una partición muy particular, que a parte de otras propiedades, tiene la de generar TODAS las relaciones $r_{\theta_{k}}$. Cada $r_{\theta_{k}}$ es un subconjunto de la flja\_abstracta, disjunta con el resto de relaciones $r_{\theta_{k}}$. No tienen R-pares en común entre ellas. Y me tengo que morder la lengua aquí... para no abrir demasiados melones. La DI real, aplicada, usará la flja\_abstracta, y la TPI, real, aplicada, usará las diferentes relaciones $r_{\theta_{k}}$ sin hacer trampas con el cardinal de $\mathbb{N}$ (otra cosa es que haga 'trampas´ dentro de cada $r_{\theta_{k}}$). En realidad solo estaremos hablando de una redistribución de R-pares :D.
+	\\\\
+	
+	\noindent
+	Como las relaciones no van a ser aplicación, van a haber elementos del Dominio con más de una imagen. No vamos a crear los pares así:\\
+	( $SUBCONJUNTO_{i}$, $\{n_{0}, n_{1}, ..., n_{j} \}$ )\\
+	Sino así:\\
+	( $SUBCONJUNTO_{i}$, $n_{0}$ )\\
+	( $SUBCONJUNTO_{i}$, $n_{1}$ )\\
+	...\\
+	( $SUBCONJUNTO_{i}$, $n_{j}$ )\\
+	Todos los elementos del Dominio ( $P(\mathbb{N})$ ), en TODAS las relaciones, van a existir en al menos UN R-par. Vamos, que van a tener imagen, aunque haya que repetir el uso de algunos elementos de $\mathbb{N}$.
+	\\\\
+	
+	\noindent
+	Sí, keep calm, van a haber D-pares que usan el mismo $n \in \mathbb{N}$, para ambos miembros del D-par, en algunos R-pares de esa relación. A eso lo llamaremos una 'repetición´.
+	\\\\
+	
+	\noindent
+	Curiosamente, llamáis igual al conjunto Imagen de cada elemento del Dominio, y al conjunto Imagen de la relación (que hay varias, ojo, :D). El conjunto Imagen de un elemento del Dominio, estará formado, una vez estudiados TODOS los R-pares de esa relación, por todos los $n \in \mathbb{N}$, que aparezcan con él, en algún R-par.
+	\\\\
+	
+	\noindent
+	Un 'PACK´ de un elemento del Dominio, según una relación r, es un subconjunto, propio o impropio, de su conjunto Imagen. No solo les cambio el nombre para diferenciarlos, sino porque pueden tener incluso diferentes cardinales para cada elemento.
+	
+	
+	\section{NAIVE CA theorem, sin demostración}
+	
+	\noindent
+	1) Si podemos construir una relación\\
+	$r: A \rightarrow B$\\
+	Siendo A y B conjuntos con cualquier cardinalidad, finita o infinita.
+	\\\\
+	
+	\noindent
+	2) Donde para cada elemento de A, en base a los R-pares de r:\\
+	2a) Podamos crear un PACK con cardinal mayor que 0, distinto de vacío.\\
+	2b) Siempre mantengamos el mismo PACK para el mismo elemento del Dominio.\\
+	2c) Todos los PACKs creados, para todos los elementos de A, sean disjuntos entre sí.
+	\\\\
+	
+	\noindent	
+	3) ENTONCES: Podemos afirmar que $|A| \ngtr |B|$
+	
+	
+	\subsection{Apreciaciones}
+	
+	\noindent
+	\textbf{I)} Ojo al dato: tu estás acostumbrado a buscar igualdad, yo me voy a obsesionar con demostrar que el cardinal de uno, NO es mayor que el cardinal del otro, por cualquier herramienta posible. Si no existe, me la invento :D... previo acuerdo de que la herramienta sea 'legal´ matemáticamente. Ya sabemos que $|\mathbb{N}|$ no 'es mayor´ que $|P(\mathbb{N})|$. Demostrarlo a la inversa es una versión cutre, pero efectiva, del teorema Cantor-Bernstein-Schröder. Decir 'NO es mayor´ deja una puerta abierta a la igualdad. Una de mis anécdotas es explicarle esto a un matemático... que corrió demasiado al 'suponer´. Ya no recuerdo quién fue, me dijo: 'Eso está mal, porque pueden ser iguales´. El gatillo del 'eso está mal´ lo tienen muy sensible. No me molesta, si se me permite responder, y mientras la gente no se ofenda porque les corrija alguien como yo.\\\\
+	
+	\noindent
+	\textbf{II)} Otra forma de verlo, es pensar en conseguir que todos los D-pares, tengan PACKs disjuntos en la relación r. Pero siempre eligiendo el mismo PACK, para el mismo elemento del Dominio, da igual en que D-par aparezca. Eso nos lleva a una similitud con la definición de inyectividad:\\\\
+	Dada $f: A \rightarrow B$\\
+	Y\\
+	$f(a_{1}) = f(a_{2}) \leftrightarrow a_{1} = a_{2}$, para cualesquiera $a_{1},a_{2} \in A$\\
+	Entonces f es inyectiva.\\\\
+	
+	\noindent
+	Esta definición nos obliga, de forma indirecta, a estudiar TODOS los D-pares de f. Al igual que el NAIVE CA Theorem, nos obliga a estudiar TODOS los D-pares, de r. Vamos a estudiar Dominio X Dominio. Te vas a hartar de escuchar la palabra 'par´. Por eso tengo que llamarlos de forma diferente.\\\\
+	
+	\noindent
+	\textbf{III)} Cuando todos los PACKs, tienen cardinal 1, es un caso particular del NAIVE CA Theorem, que es una definición alternativa a la inyectividad. YA que la relación se vuelve función (solo hay una imagen por elemento del Dominio), y solo cambiamos decir 'imagen diferente´ por 'imagen disjunta´ :D.\\\\
+	
+	\noindent
+	El NAIVE CA Theorem es una generalización de la inyectividad para relaciones que no son aplicación. La inyectividad es un caso particular del NAIVE CA Theorem. PERO, rigurosamente hablando, el NAIVE CA Theorem no encaja en la definición de biyección. No siempre.\\\\
+	
+	\noindent
+	\textbf{IV)} Por favor, es una tontería, pero recuerda:\\
+	$\{7, 23, 5027\}$ y $\{8, 23, 5028\}$\\
+	Son diferentes, pero NO disjuntos... no vamos a permitir ni un solo elemento en común entre los PACKs. Es esencial recordar que no vamos a buscar imágenes (PACKs), diferentes, sino DISJUNTAS. Esto viene por si caes en la trampa mental de creer que las relaciones son en realidad entre $P(\mathbb{N})$ y $P(\mathbb{N})$. Si los PACKs son disjuntos... por mucho que cada uno sea subconjunto de $\mathbb{N}$, todos juntos forman una partición de algún subconjunto de $\mathbb{N}$. Cosa que no sucedería si solo fuesen 'diferentes´. 
+	
+	
+	\section{Definición de 'resolver´}
+	
+	\noindent
+	Decimos que una relación r, RESUELVE un D-par, si es capaz de generar PACKs disjuntos para los miembros de ese D-par concreto. Usando siempre, el mismo PACK, para el mismo elemento del Dominio, a la hora de estudiar TODOS los D-pares. Sin cambiarle un solo elemento. Ni de más, ni de menos.
+	\\\\
+	
+	\noindent
+	Si el mismo elemento del Dominio, lo observamos en otro D-par... puede que ya no sean disjuntos los PACKs, pq el PACK del nuevo elemento no lo es con el de este.
+	\\\\
+
+	\noindent
+	RESOLVER, no es una propiedad de elementos aislados, sino de D-pares aislados... un mismo elemento puede estar en otro D-par, y ese D-par no estar resuelto por la relación r. No hay problema, el anterior D-par sigue siendo considerado como resuelto. POR ESO insistiré... nuestro espectro, no van a ser elementos del Dominio, sino de Dominio X Dominio.
+	\\\\
+	
+	\noindent
+	Lo idea de cambiar de espectro no es cosa mia, sino de Cantor. La definición de inyectividad te lleva a pensar en ello.
+	\\\\
+	
+	\noindent
+	Como penúltima cosa a recordar y precisar. Si dos PACKs, de un D-par concreto, tuviesen tres trillones de elementos cada uno, y SOLO, un elemento en común, no contaría como D-par resuelto por la relación r, sino como 'repetición´.
+	\\\\
+	
+	\noindent
+	Si en un D-par, resulta que ambos elementos del Dominio, son el mismo elemento, aunque sus PACKs no sean disjuntos, se considera resuelto. No necesito que sean disjuntos los PACKs si están asignados al mismo elemento.
+	\\\\

@@ -1,0 +1,31 @@
+\babel@toc {spanish}{}\relax 
+\hspace {-7.5mm} \textbf {Capítulos}
+\hfill \textbf {P\'agina} \par 
+\vspace {-2mm} \hspace {-7.5mm} \hrule \par 
+\contentsline {part}{I\hspace {1em}Part I: English}{6}{part.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Fast and simple analogy about the fail in the logic of the proofs}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}The Table}{8}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Try of Minimum Previous Context}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Di, TPI and the actual phenomenon that is happenning right now}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}DI}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}TPI}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Incredible result}{10}{section.4.3}%
+\contentsline {part}{II\hspace {1em}Parte II: Español}{11}{part.2}%
+\contentsline {chapter}{\numberline {5}Introducción}{12}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Analogía rápida del fallo lógico de las demostraciones}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}La Tabla}{14}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Explicación de la tabla}{14}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Punto 1}{15}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Punto 2}{15}{subsection.6.2.2}%
+\contentsline {subsubsection}{Añadido ignorable solo para dejar constancia}{16}{section*.2}%
+\contentsline {subsection}{\numberline {6.2.3}Punto 3}{16}{subsection.6.2.3}%
+\contentsline {chapter}{\numberline {7}Intento de Contexto Previo Mínimo}{18}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Relaciones no aplicación}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}NAIVE CA theorem, sin demostración}{19}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Apreciaciones}{19}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}Definición de 'resolver´}{20}{section.7.3}%
+\contentsline {chapter}{\numberline {8}DI, TPI, y el fenómeno actual que me está sucediendo}{22}{chapter.8}%
+\contentsline {section}{\numberline {8.1}DI}{22}{section.8.1}%
+\contentsline {section}{\numberline {8.2}TPI}{22}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Resultado increíble}{22}{section.8.3}%

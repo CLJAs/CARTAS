@@ -1,0 +1,17 @@
+https://aprendeconalf.es/analisis-manual/01-teoria-conjuntos.html
+
+Dice que aqui puedo ver las demostraciones
+
+A vs P(A) 
+y
+|P(N)| = |R|
+
+Me pide:
+Mandarle las dos técnicas
+Decirle donde está el fallo
+
+Apuntes:
+
+Con R= P(N) no hay problema... todos los infinitos son iguales
+
+Con la otra, lo que tengo escrito en la libreta

@@ -1,0 +1,115 @@
+\chapter{Analogía rápida del fallo lógico de las demostraciones}
+
+	\section{La Tabla}
+	\begin{table}[h!]
+		\begin{tabular}{|c|c|c|c|c|c|}
+			\hline
+			$O\_o!!$ & $R_{1}$ & $R_{2}$ & $R_{3}$ & $R_{4}$ & $R_{5}$ \\
+			\hline
+			$A$ & $B_{1}$ & $B_{2}$ & $B_{3}$ & $B_{4}$ & $B_{5}$ \\
+			\hline
+			\hline
+			$1$ & $\{1\}$ & $\{1\}$ & $\{1\}$ & $\{1\}$ &$\{1\}$  \\
+			\hline
+			$2$ & $\{2\}$ & $\{2\}$ & $\{2\}$ & $\{2\}$ &$\{2\}$\\
+			\hline
+			$3$ & $\{3\}$ & $\{3\}$ & $\{3\}$ & $\{3\}$ &$\{3\}$\\
+			\hline
+			$4$ & $\emptyset$ & $\{4\}$ & $\{5,6\}$ & $\{4,5,6\}$ & $b=\{a \in A | a \notin R_{5}(a) \}$ \\
+			\hline
+			$5$ & $\{6\}$ & $\{6\}$ & $\{6\}$ & $\{6\}$ &$\{6\}$\\
+			\hline
+			$6$ & $\{5\}$ & $\{5\}$ & $\{5\}$ & $\{5\}$ &$\{5\}$ \\
+			\hline 
+		\end{tabular}
+	\end{table}
+
+	\section{Explicación de la tabla}
+	
+	\noindent
+	La tabla representa un 'asedio´ a una paradoja híbrida, muy simple. Son cinco relaciones\footnote{
+		RARAMENTE voy a usar la palabra 'función´, primero porque es correcto llamarlas también relaciones, antes de ser función debes ser relación. Segundo porque mi trabajo se basa en relaciones que NO son aplicación (recuerda, todo está chequeado, lo hago de forma correcta hasta los puntos débiles que te mencioné en el documento de tres páginas): 
+		$\href{https://docs.google.com/document/d/1DwgidmjAFIlmpDw0rucYLSeTMFiOuFxfVQxPFC-6vwI/edit?usp=share_link}{Documento}$
+	}. De $R_{1}$ a $R_{5}$ son relaciones entre A, que tiene cardinal 6, y conjuntos de subconjuntos de A, los $B_{i}$, con cardinal 6, también. Cada columna, después de la doble línea, representa los elementos de cada conjunto. La tabla indica que el elemento del conjunto $B_{i}$, está relacionado mediante $R_{i}$, con el elemento de A que está en la misma fila.\\\\
+
+	\noindent
+	No sé por qué la gente reacciona airadamente al ver este ejemplo, pero necesito que sea simple para que se vea muy claro varias cosas. Sé de sobras que los conjuntos implicados sólo tienen cardinal 6, y que no son $\mathbb{N}$ ni $P(\mathbb{N})$. Te dije que sería una analogía con un caso más simple.\\\\
+	
+	\noindent
+	Podríamos demostrar que $B_{5}$ NO es sobreyectiva, si 'confiamos´ en la técnica de Cantor. Al crear el par $(4, b)$ en $R_{5}$ creamos la doble contradicción que es núcleo de su demostración (junto con la definición de 'b´). Y a la misma vez, sabemos, gracias a que es muy simple el ejemplo, que A y $B_{5}$ tienen el mismo cardinal. Finito, pero el mismo cardinal.
+	
+	\noindent
+	La demostración habla de 'cualquier relación/función posible entre A y P(A)´, y aquí tenemos un caso EXTREMADAMENTE particular, donde la conclusión de la demostración, cojea. Okey, no son esos conjuntos, pero tienen el mismo cardinal, permiten definir 'b´ y generar la doble contradicción. \\\\
+	
+	\noindent
+	No solo eso. Y esta es la parte del 'asedio´. $B_{5}$ es uno de los otros $B_{i}$ por narices: o es $B_{1}$, o $B_{2}$, o $B_{3}$, o $B_{4}$. Ya que la definición de 'b´ DEBERÍA coincidir con 'alguno´ de los elementos que están en su misma fila, el resto de elementos son idénticos. Eso \textbf{\underline{SI}} 'b´ EXISTIESE y fuese un subconjunto de A. Esto implica que $R_{5}$, en realidad, es una de las otras $R_{i}$... que no generan dobles contradicciones y sí son biyectivas.\\\\
+	
+	\noindent
+	Fíjate lo curioso que es: al cambiar la definición del subconjunto hemos desactivado la doble contradicción, pero usando EL MISMO subconjunto. No pasa nada por crear los pares:\\
+	$(4, \emptyset)$, \\ 
+	$(4, \{4\})$,     \\
+	$(4, \{5,6\})$ y  \\
+	$(4, \{4,5,6\})$  \\
+	Lo malo es que no sabemos exactamente CUAL de ellos es 'b´, y a la misma vez, debe ser alguno de ellos. YO, no lo tengo claro, al menos :D. Pero gracias a que el ejemplo es tremendamente sencillo, sabemos con certeza que de $R_{1}$ a $R_{4}$ son todas relaciones, funciones, biyectivas.\\\\
+	
+	\noindent
+	¿Lo experimentas? Este es el sabor de boca que te deja un asedio para atacar una paradoja híbrida. Claro, en su versión light. Yo estuve sin dormir tres días... pero igual tú te libras. Otra gente se cabrea. O cortocircuita.\\\\
+	
+	\subsection{Punto 1}
+	
+	\noindent
+	No sé como expresar esto de forma 'formal´: las diagonalizaciones son IRRELEVANTES, pq se pueden construir sobre conjuntos con el mismo cardinal. Pero esa afirmación no me la he sacado de la manga, como me hicieron con la TPI, que SI busca poder crearse entre conjuntos con... 'el mismo cardinal infinito´. Con una simple observación de la tabla puedes coincidir conmigo: los elementos de cada conjunto se pueden contar a ojo, si hubiese dudas :D.\\\\
+	
+	\subsection{Punto 2}
+	
+	\noindent
+	2) Me dirás que me queda la de $\mathbb{N}$ vs $\mathbb{R}$ ( o cadenas binarias infinitas representando el conjunto de Cantor), que no me la has pedido. El Teorema 2 de tu lista:\\
+	$|P(\mathbb{N})| = \mathbb{R}$\\
+	No contradice mis afirmaciones. Y este que te sugiero lo tengo analizado en estas dos horas de vídeos de youtube:\\
+	\href{https://www.youtube.com/watch?v=reRUUKGFXf0&list=PLcEv5UNDUdw68yFXf2kYGDZVyIGpCfGdy}{Lista de videos}\\
+	TE ADVIERTO, mi material es caótico. Solo te lo pongo para que 'tengo algo para eso´. He aprendido a ordenarlo un poco todo y lo estoy reescribiendo. Esos vídeos necesitan unos pequeños apaños. Es una rama no chequeada todavía. Se repiten montón de cosas porque hay que explicar las definiciones y propiedades comunes en cada rama, si empiezo de cero con alguien... Te vas a quedar a cuadros, pero básicamente puedo PREDECIR cualquier elemento externo, creado con cualquier técnica de diagonalización, CUALQUIERA, para cualquier intento de biyección POSIBLE entre $\mathbb{N}$ y $P(\mathbb{N})$, con relaciones PREVIAMENTE establecidas. ¿Qué apaños?¿Qué significa 'predecir´?¿Cómo que uso más de una relación?... :D. Por eso sólo quiero decirte que 'existe´.
+	
+	\noindent
+	\textit{NOTA: perdona que me ponga quizás prepotente. Sé que hay más demostraciones... YO NO SOY matemático. UN SOLO contraejemplo las invalida TODAS. Mencionarlo es indigno de un matemático de carrera. Es mucho morro pedirme que arregle TODAS. YO SOLO. Ni siquiera las conozco. He visto alguna y 'creo´ saber por dónde van los tiros del error... pero una vez más, no paro de pedir ayuda, y como no soy nadie... pues eso.}\\\\
+	
+	\noindent
+	Salta aquí al punto 3, el resto de esta subsección solo lo escribo para dejar constancia. Necesitas mogollón de contexto para entender los apaños, aunque, por si los lees, trataré de explicarte 'algo´.
+	
+	\subsubsection{Añadido ignorable solo para dejar constancia}
+	
+	Texto
+	
+	\subsection{Punto 3}
+	
+	\noindent
+	Ya sé, ya sé... el ejemplo es demasiado sencillo. PERO, si ya se dá en UN caso ¿Sucederá en más? Y la gracia es que sucede para $\mathbb{N}$ vs $P(\mathbb{N})$.\\\\ 
+	
+	\noindent
+	En este ejemplo se vé fácil porque los conjuntos son muy sencillos. El asedio sólo consiste en crear todas las alternativas posibles a la función característica de 'b´, con descripciones que solo listan directamente los elementos. Cambiamos su función característica, SIN CAMBIAR el subconjunto final: 'alguna de ellas´ es una función característica\footnote{Espero no equivocarme. La función que dice si un elemento pertenece o no al conjunto} equivalente a la de 'b´. Las dos generan el mismo subconjunto de A.\\\\
+	
+	\noindent
+	En el caso real, no solo vamos a cambiar TODAS las funciones características de TODOS los elementos de $P(\mathbb{N})$. Vamos a crear alternativas al concepto de 'función´ (relaciones no aplicación que van a ser 'útiles´), al concepto de inyectividad o biyectividad para comparar cardinalidades infinitas, vamos a poner en duda la definición de 'cardinalidad´... e incluso puede que algún axioma ZF... vamos a 'intuir´ que existen fenómenos lógicos nuevos (las Paradojas Híbridas\footnote{Una P.H. es un absurdo metido con calzador, que es un absurdo en sí mismo, al ser paradoja, que en realidad no está relacionado con la frase original de la demostración. Para pequeña muestra, un pequeño botón... $R_{5}$ debería ser biyectiva, a pesar de la doble contradicción que podemos generar gracias a la definición de 'b´. Se llaman híbridas, pq tienen muchos estados diferentes, según la relación de la que dependen, es un buen subconjunto, o se convierte en paradoja... y nos permite decir que hemos llegado a un absurdo, cuando lo único que hemos hecho es añadir una paradoja por la cara en mitad de la demostración}). Y lo que no me esperaba, vamos a expandir el asedio a dos técnicas diferentes. Cuando presento la TPI, para negarla, me GARANTIZAN justo el punto que me faltaba de la DI, y para negar la DI, me GARANTIZAN justo el punto que me faltaba en la TPI. ¿Cuál de las dos es la correcta? ASEDIO!! Jajajaja. Las dos dependen de interpretaciones complementarias del mismo tipo de intersecciones infinitas... para cada posible interpretación, tengo una construcción de 'equivalente´ a una relación inyectiva imposible según Cantor. Aunque no sepa decirte cuál es la interpretación correcta de las dos.\\\\
+
+	\noindent
+	¿Se pueden construir diagonalizaciones? Sí, pero si no me das 4 horas y media, me niegas el contraejemplo, me niegas el poder enseñarte el equivalente a poder ver que todos los conjuntos implicados SIEMPRE han tenido cardinal 6 (en el ejemplo de la tabla).\\\\
+	
+	\noindent
+	No nos podemos saltar el orden. Para que entiendas el fallo de las demostraciones, necesito enseñarte el contrajemplo primero. Esa es mi serpiente que se muerde la cola.	Todo el mundo me insiste en que si el contraejemplo existe, les indique el fallo de las demostraciones. Y eso es imposible, al menos para mí. NECESITO el contraejemplo. Debes entender que las diagonalizaciones son irrelevantes y que petan de muchas maneras diferentes si las estudias a fondo.
+	\\\\
+	
+	\noindent
+	\textit{Aquí ya me meto droga dura en vena: no me hagas mucho caso :D. Una paradoja híbrida no es una función característica válida de un subconjunto, no es un Teorema, y no es un programa (Cantor, Gödel, Turing...). Por eso hay que cambiar un axioma de ZF, para añadir de alguna manera la coletilla de que no puede crearse un subconjunto con una paradoja híbrida. Hay que estudiarlas a fondo, para mejorar su detección y definición, por si también afectan a los teoremas de Gödel, Turing... y alguno de Teoría de Lenguajes Formales. O por si hay más casos...}\\\\
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
