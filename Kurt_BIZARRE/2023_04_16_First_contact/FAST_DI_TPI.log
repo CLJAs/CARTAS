@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  18 APR 2023 11:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  23 APR 2023 00:39
 entering extended mode
 **./FAST_DI_TPI.tex
 (FAST_DI_TPI.tex
@@ -1073,23 +1073,159 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--1
 
 [21]
 C.- 8.
-) [22
 
-] (FAST_DI_TPI.aux
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+<./Imagenes//Distribucion_001_A.png, id=256, 593.57051pt x 430.43161pt>
+File: ./Imagenes//Distribucion_001_A.png Graphic file (type png)
+<use ./Imagenes//Distribucion_001_A.png>
+Package pdftex.def Info: ./Imagenes//Distribucion_001_A.png  used on input line
+ 21.
+(pdftex.def)             Requested size: 296.78453pt x 215.21527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+[22
+
+]
+<./Imagenes//Distribucion_001_B.png, id=265, 593.57051pt x 430.43161pt>
+File: ./Imagenes//Distribucion_001_B.png Graphic file (type png)
+<use ./Imagenes//Distribucion_001_B.png>
+Package pdftex.def Info: ./Imagenes//Distribucion_001_B.png  used on input line
+ 27.
+(pdftex.def)             Requested size: 296.78453pt x 215.21527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+
+ []
+
+[23 <./Imagenes//Distribucion_001_A.png> <./Imagenes//Distribucion_001_B.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+
+ []
+
+<./Imagenes//Distribucion_001_C.png, id=272, 593.57051pt x 430.43161pt>
+File: ./Imagenes//Distribucion_001_C.png Graphic file (type png)
+<use ./Imagenes//Distribucion_001_C.png>
+Package pdftex.def Info: ./Imagenes//Distribucion_001_C.png  used on input line
+ 39.
+(pdftex.def)             Requested size: 267.10426pt x 193.69243pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+<./Imagenes//Distribucion_002_A.png, id=273, 593.57051pt x 430.43161pt>
+File: ./Imagenes//Distribucion_002_A.png Graphic file (type png)
+<use ./Imagenes//Distribucion_002_A.png>
+Package pdftex.def Info: ./Imagenes//Distribucion_002_A.png  used on input line
+ 47.
+(pdftex.def)             Requested size: 267.10426pt x 193.69243pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+
+ []
+
+[24 <./Imagenes//Distribucion_001_C.png> <./Imagenes//Distribucion_002_A.png>])
+[25] (FAST_DI_TPI.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `FAST_DI_TPI.out' has not changed.
-(rerunfilecheck)             Checksum: F55F151B854FF304F43C067319225DD9;4435.
+(rerunfilecheck)             Checksum: E31D0C51EFC2860247B00C0B0606706F;4574.
  ) 
 Here is how much of TeX's memory you used:
- 13385 strings out of 478927
- 207364 string characters out of 2850640
+ 13437 strings out of 478927
+ 209061 string characters out of 2850640
  632028 words of memory out of 3000000
- 30932 multiletter control sequences out of 15000+600000
+ 30976 multiletter control sequences out of 15000+600000
  414717 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,17n,81p,1825b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,17n,81p,1826b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Fistroman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcbx1440.pk> <C:\Users\Fistroman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcti1000.pk> <C:\Users\Fistroman\AppData\Local\MiKTeX\fonts/pk/ljfour
@@ -1112,14 +1248,15 @@ fonts/cm/cmr6.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1
 fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Fistroman/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Fistroman/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistr
-oman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:
+oman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
 /Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mti10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on FAST_DI_TPI.pdf (22 pages, 308328 bytes).
+msy9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmti10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on FAST_DI_TPI.pdf (25 pages, 511357 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 209 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 

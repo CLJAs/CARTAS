@@ -26,6 +26,6 @@
 \contentsline {subsection}{\numberline {7.2.1}Apreciaciones}{19}{subsection.7.2.1}%
 \contentsline {section}{\numberline {7.3}Definición de 'resolver´}{20}{section.7.3}%
 \contentsline {chapter}{\numberline {8}DI, TPI, y el fenómeno actual que me está sucediendo}{22}{chapter.8}%
-\contentsline {section}{\numberline {8.1}DI}{22}{section.8.1}%
-\contentsline {section}{\numberline {8.2}TPI}{22}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Resultado increíble}{22}{section.8.3}%
+\contentsline {section}{\numberline {8.1}DI:variante pelea de colegio}{22}{section.8.1}%
+\contentsline {section}{\numberline {8.2}TPI}{25}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Resultado increíble}{25}{section.8.3}%
