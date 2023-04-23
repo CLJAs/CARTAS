@@ -27,5 +27,10 @@
 \contentsline {section}{\numberline {7.3}Definición de 'resolver´}{20}{section.7.3}%
 \contentsline {chapter}{\numberline {8}DI, TPI, y el fenómeno actual que me está sucediendo}{22}{chapter.8}%
 \contentsline {section}{\numberline {8.1}DI:variante pelea de colegio}{22}{section.8.1}%
-\contentsline {section}{\numberline {8.2}TPI}{25}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Resultado increíble}{25}{section.8.3}%
+\contentsline {subsection}{\numberline {8.1.1}Observaciones de la DI}{25}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}TPI}{27}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Definicones previas para entender la TPI}{27}{subsection.8.2.1}%
+\contentsline {section}{\numberline {8.3}$r_{2}$: 10 vs 2}{29}{section.8.3}%
+\contentsline {section}{\numberline {8.4}$r_{3}$: 10 vs 5}{31}{section.8.4}%
+\contentsline {section}{\numberline {8.5}$r_{4}$: 10 vs 9}{31}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Resultado increíble}{32}{section.8.6}%
