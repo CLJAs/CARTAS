@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  23 APR 2023 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  26 APR 2023 02:44
 entering extended mode
 **./FAST_DI_TPI.tex
 (FAST_DI_TPI.tex
@@ -1103,7 +1103,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-<./Imagenes//Distribucion_001_A.png, id=281, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_001_A.png, id=276, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_001_A.png Graphic file (type png)
 <use ./Imagenes//Distribucion_001_A.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_001_A.png  used on input line
@@ -1127,7 +1127,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--24
 [22
 
 ]
-<./Imagenes//Distribucion_001_B.png, id=290, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_001_B.png, id=285, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_001_B.png Graphic file (type png)
 <use ./Imagenes//Distribucion_001_B.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_001_B.png  used on input line
@@ -1168,7 +1168,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--37
 
  []
 
-<./Imagenes//Distribucion_001_C.png, id=297, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_001_C.png, id=292, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_001_C.png Graphic file (type png)
 <use ./Imagenes//Distribucion_001_C.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_001_C.png  used on input line
@@ -1194,7 +1194,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--45
 
  []
 
-<./Imagenes//Distribucion_002_A.png, id=298, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_002_A.png, id=293, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_002_A.png Graphic file (type png)
 <use ./Imagenes//Distribucion_002_A.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_002_A.png  used on input line
@@ -1211,7 +1211,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--49
  []
 
 [24 <./Imagenes//Distribucion_001_C.png> <./Imagenes//Distribucion_002_A.png>]
-<./Imagenes//Distribucion_002_B.png, id=305, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_002_B.png, id=300, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_002_B.png Graphic file (type png)
 <use ./Imagenes//Distribucion_002_B.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_002_B.png  used on input line
@@ -1378,186 +1378,448 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--147
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--160
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 161--164
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--207
 
  []
 
 [28]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 166.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 166.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 166.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--172
+Underfull \hbox (badness 10000) in paragraph at lines 220--226
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--172
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--191
+Underfull \hbox (badness 10000) in paragraph at lines 232--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--210
+Underfull \hbox (badness 10000) in paragraph at lines 236--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--229
+Underfull \hbox (badness 10000) in paragraph at lines 236--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--234
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--238
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
 
  []
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 239--247
+Underfull \hbox (badness 10000) in paragraph at lines 292--299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
+Underfull \hbox (badness 10000) in paragraph at lines 292--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--310
 
  []
 
 [30]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 253.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 253.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 253.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--259
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--259
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--280
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--280
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
 
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 281.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 281.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 281.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--287
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--287
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--307
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--307
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--311
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--318
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
 
  []
 
-[31]) [32] (FAST_DI_TPI.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--353
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 354--357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 377--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--396
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--396
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 401--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 425--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--457
+
+ []
+
+[35]) [36] (FAST_DI_TPI.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `FAST_DI_TPI.out' has not changed.
-(rerunfilecheck)             Checksum: 82B57CA46289A76D42E614FE78316E8B;5389.
+(rerunfilecheck)             Checksum: EFDD28EBC95657282911FF3D00D87A0B;5361.
  ) 
 Here is how much of TeX's memory you used:
- 13479 strings out of 478927
- 209815 string characters out of 2850640
- 637034 words of memory out of 3000000
- 31004 multiletter control sequences out of 15000+600000
- 415964 words of font info for 74 fonts, out of 8000000 for 9000
+ 13487 strings out of 478927
+ 209894 string characters out of 2850640
+ 636034 words of memory out of 3000000
+ 31003 multiletter control sequences out of 15000+600000
+ 414717 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,17n,81p,1826b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Fistroman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -1569,32 +1831,34 @@ grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Fistroman/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/F
 istroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 ><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fo
+cm/cmex10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Fistroman/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Fistroman/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Fistro
-man/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Fistroman/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Fistro
+man/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
 Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr5.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Fistroman/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Fistroman/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Fistr
-oman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/
-Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Fistroman/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C
-:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/sym
-bols/msbm10.pfb>
-Output written on FAST_DI_TPI.pdf (32 pages, 615751 bytes).
+mi9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Fistroman/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Fistroman/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Fist
+roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Fistroman/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Fistroman/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users
+/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.
+pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/symbols/msam10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb>
+Output written on FAST_DI_TPI.pdf (36 pages, 657371 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
 

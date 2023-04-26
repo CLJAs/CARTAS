@@ -135,35 +135,32 @@
 	
 	\noindent
 	Nos podríamos preguntar cuántos pares de $A X A$, cumplen la definición de inyectividad en esa relación concreta. Cuántos RESUELVE ésta relación. ``Resolver'' es un concepto que ya conocemos.\\\\
-	$WSP(r_{1})$: $<$Well Solved Pairs$>$ es el subconjunto de elementos de $A X A$, que cumplen la definición de inyectividad, en ESA relación.\\\\
-	$NWSP(r_{1})$: $<$NOT Well Solved Pairs$>$ es el subconjunto de elementos de $A X A$, que \textbf{NO} cumplen la definición de inyectividad, en ESA relación.\\\\
+	$WSP(r_{1})$: $<$Well Solved Pairs$>$ es el subconjunto de elementos de $A X A$, que cumplen la definición de inyectividad, en ESA relación. O tienen Packs disjuntos.\\\\
+	$NWSP(r_{1})$: $<$NOT Well Solved Pairs$>$ es el subconjunto de elementos de $A X A$, que \textbf{NO} cumplen la definición de inyectividad, en ESA relación. O NO tienen Packs disjuntos.\\\\
 	Ambos conjuntos son complementarios respecto de $A X A$. WSP es el complementario de NWSP y viceversa. El mismo par, no puede estar en WSP y NWSP en la misma relación. O cumple la definición o no la cumple.\\\\
 	$QRE(r_{1})$: $<$Quantity of Repeated Elements$>$ es el cardinal de NWSP, en ESA relación.
 	\\
 	
 	\noindent
-	A pesar de que la relación que hemos creado, es uno de los posibles ejemplos más desastrosos que pueden haber, la definición de inyectividad nos permite dar por válidos aquellos pares que están formados por el mismo elemento del Dominio. En esos casos, da igual que tengan la misma imagen en la relación, son pares correctos. Van en WSP.
+	A pesar de que la relación que hemos creado, es uno de los posibles ejemplos más desastrosos que pueden haber, la definición de inyectividad nos permite dar por válidos aquellos pares que están formados por el mismo elemento del Dominio. En esos casos, da igual que tengan la misma imagen en la relación, son pares correctos. Van en WSP. Lo mismo para el Naive CA Theorem. Es indiferente hablar de inyectividad que de Naive Ca Theorem... el segundo es incluso peor: se puede afirmar con mayor seguridad que $|D| \ngtr |I|$.
 	\\
 	
 	\noindent
 	$WSP(r_{1}) = \{(0,0), (1,1), (2,2), ..., (8,8), (9,9)\}$\\\\
 	En NWSP iría el resto de posibles pares. Entonces:\\\\
-	$|WSP_{r_{1}}| = 10$\\\\
-	$|NWSP_{r_{1}}| = 90$\\
+	$|WSP(r_{1})| = 10$\\\\
+	$|NWSP(r_{1})| = 90$\\
 	*ya que el cardinal de $A X A$ sería 100.\\\\
-	$QRE_{r_{1}} = 90$
-	\\
+	$QRE(r_{1}) = 90$. Nota\footnote{
+			Ahora uso está nueva nomenclatura de función. Antes usaba sub-índices. Por ejemplo:  $QRE_{r_{1}}$. Es lo único que me gustó de alguien que me envió una reformulación formal de la TPI. Pq considero sus cambios INNECESARIOS, arbitrarios... y encima quitaba cosas esenciales por no haber esperado a tener una imagen más global. La aplicaba con errores a $\mathbb{Q}$ vs $\mathbb{R}$, para luego decir que la TPI era irrelevante pq ``ya sabíamos'' que tienen diferente cardinal...  Lo cual , encima, es un argumento circular. Me envió el documento como anónimo y no tuvo lo que hay que tener para poner su nombre, así que yo tampoco lo haré. pero reconozco que esta nomenclatura no es idea mia. Y que me gustó :D. Los cambios que hacía ROMPÍAN las similitudes con la DI.
+	}
+	\\\\
 	
 	\noindent
-	Les ponemos un sub-indicativo, porque no solo dependen de los conjuntos involucrados, sino de la relación que hemos decidido crear entre ellos.
-	\\
+	Cuando $QRE=0$, significa que el cardinal de NWSP es cero. Eso implica que es un conjunto vacío. O sea, que NO EXISTEN pares que INCUMPLAN la definición de inyectividad. O pares cuyos Packs NO SEAN disjuntos. Cuando $QRE=0$, o $NWSP=\emptyset$, indica que es una relación inyectiva, perfecta. O que tenemos las condiciones del Naive CA theorem.
+	\\\\
 	
-	\noindent
-	Cuando $QRE=0$, significa que el cardinal de NWSP es cero. Eso implica que es un conjunto vacío. O sea, que NO EXISTEN pares que INCUMPLAN la definición de inyectividad. Cuando $QRE=0$, o $NWSP=\emptyset$, indica que es una relación inyectiva, perfecta.
-	\\
-	
-	\newpage
-	\section{$r_{2}$: 10 vs 2}
+	\subsubsection{$r_{2}$: 10 vs 2}
 	
 	\noindent
 	Sea $A=\{0,1,2,3,4,5,6,7,8,9\}$\\\\
@@ -184,9 +181,9 @@
 	
 	\noindent
 	En esta relación hemos optado por ni siquiera usar todos los elementos del conjunto Imagen. Un auténtico desastre. Pero un desastre muy parecido al ejemplo de relación del punto anterior: $r_{1}$. Es idéntica solo que cambiando la `a' por la `b'. Las medidas son iguales:\\
-	$|WSP_{r_{2a}}| = 10$\\
-	$|NWSP_{r_{2a}}| = 90$\\
-	$QRE_{r_{2a}}=90$
+	$|WSP(r_{2a})| = 10$\\
+	$|NWSP(r_{2a})| = 90$\\
+	$QRE(r_{2a})=90$
 	\\
 	
 	\noindent
@@ -203,10 +200,10 @@
 	
 	\noindent
 	En este ejemplo ya hemos usado los dos elementos del conjunto Imagen, pero no nos hemos esforzado demasiado. Aún así, las medidas mejoran. Antes, el par $(0,1)$ estaba en NWSP, y ahora está en WSP. Aparte de los 10 pares, que están formados por el mismo elemento, a WSP llegan los pares que contengan el 0, pues este está relacionado con un elemento único del conjunto Imagen. Nadie más esta relacionado con `a', solo el 0. A la hora de contar, conviene recordar que en $A X A$, los pares $(0,1)$ y $(1,0)$, por ejemplo, no son el mismo, aunque sepamos seguro que si uno cumple la definición de inyectividad, el otro también. En general, resolver el par $(i,j)$ es lo mismo que resolver el par $(j,i)$. Las medidas quedan:\\
-	$|WSP_{r_{2b}}| = 10+(9*2) = 28$\\
-	$|NWSP_{r_{2b}}| = 72$\\
-	$QRE_{r_{2b}}=72$
-	\\
+	$|WSP(r_{2b})| = 10+(9*2) = 28$\\
+	$|NWSP(r_{2b})| = 72$\\
+	$QRE(r_{2b})=72$
+	\\\\
 	
 	\noindent
 	$r_{2}:A \longrightarrow B_{2}$
@@ -222,9 +219,9 @@
 	
 	\noindent
 	Aquí si me he esforzado más. No estoy seguro de que sea la mejor relación posible. Al crear esta, sabemos que, al menos, estas medidas son posibles:\\
-	$|WSP_{r_{2}}| = 10+(5*5*2) = 60$\\
-	$|NWSP_{r_{2}}| = 40$\\
-	$QRE_{r_{2}}=40$
+	$|WSP(r_{2})| = 10+(5*5*2) = 60$\\
+	$|NWSP(r_{2})| = 40$\\
+	$QRE(r_{2})=40$
 	\\
 	
 	
@@ -243,14 +240,9 @@
 	Por muy bien que lo hagamos, conseguir un QRE=0 para una relación del tipo\\
 	$r:A \longrightarrow B_{2}$\\
 	sería un absurdo!! Al mismo tiempo, que ese `tope' no exista, sería un posible indicativo de que nos hemos equivocado al juzgar el cardinal del conjunto Imagen, por la causa que sea.
-	\\
+	\\\\
 	
-	\noindent
-	También, como empezamos a decir dos párrafos más arriba, cuántos más elementos tenemos en nuestro conjunto Imagen, más fácil nos resulta hacer más chiquitito a NWSP. Ya definiremos que consideramos una mejora. En los ejemplos de cardinalidad finita es muy fácil verlo. La medida QRE habla por sí sola. En los conjuntos de cardinalidad infinita no tanto.
-	\\
-	
-	\newpage
-	\section{$r_{3}$: 10 vs 5}
+	\subsubsection{$r_{3}$: 10 vs 5}
 	
 	\noindent
 	Sea $A=\{0,1,2,3,4,5,6,7,8,9\}$\\\\
@@ -271,14 +263,14 @@
 	
 	\noindent
 	Ahora resulta más fácil ver que pares caen en $NWSP$: \\\\
-	$NWSP_{r_{3}}=\{ (0,5), (5,0), (1,6), (6,1), (2,7), (7,2), (3,8), (8,3), (4,9), (9,4)\}$\\
-	$|NWSP_{r_{3}}| = 10$\\
+	$NWSP(r_{3})=\{ (0,5), (5,0), (1,6), (6,1), (2,7), (7,2), (3,8), (8,3), (4,9), (9,4)\}$\\
+	$|NWSP(r_{3})| = 10$\\
 	Esto implica que, como son complementarios:\\
-	$|WSP_{r_{3}}| = 90$\\
-	$QRE_{r_{3}}=10$
+	$|WSP(r_{3})| = 90$\\
+	$QRE(r_{3})=10$
 	\\
 	
-	\section{$r_{4}$: 10 vs 9}
+	\subsubsection{$r_{4}$: 10 vs 9}
 	
 	\noindent
 	Sea $A=\{0,1,2,3,4,5,6,7,8,9\}$\\\\
@@ -299,10 +291,10 @@
 	
 	\noindent
 	Ahora solo hay dos pares que caen dentro de $NWSP$: \\\\
-	$NWSP_{r_{4}}=\{ (4,9), (9,4) \}$\\
-	$|NWSP_{r_{4}}| = 2$\\
-	$|WSP_{r_{4}}| = 98$\\
-	$QRE_{r_{4}}=2$
+	$NWSP(r_{4})=\{ (4,9), (9,4) \}$\\
+	$|NWSP(r_{4})| = 2$\\
+	$|WSP(r_{4})| = 98$\\
+	$QRE(r_{4})=2$
 	\\
 	
 	\noindent
@@ -311,13 +303,160 @@
 	
 	\noindent
 	Observemos como según teníamos más elementos disponibles, nuestro valores QRE se acercaban a cero:\\
-	$ |B_{1}| = 1 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE_{r_{1}} = 90$\\
-	$ |B_{2}| = 2 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE_{r_{2}} = 40$\\
-	$ |B_{3}| = 5 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE_{r_{3}} = 10$\\
-	$ |B_{4}| = 9 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE_{r_{4}} = 2$\\
+	$ |B_{1}| = 1 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE(r_{1}) = 90$\\
+	$ |B_{2}| = 2 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE(r_{2}) = 40$\\
+	$ |B_{3}| = 5 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE(r_{3}) = 10$\\
+	$ |B_{4}| = 9 \:\:\:\:\:\:\:\:\: \rightarrowtail \:\:\:\:\:\:\:\:\: QRE(r_{4}) = 2$\\
 	
 	\newpage
 	
+	\subsection{TPI, definición}
+	\noindent
+	Tenemos una TPI, para casos transfinitos, si entre los conjuntos $D$(Dominio) y $O$(Origen\footnote{Origen de todos los subconjuntos que usaremos como Imagen en cada relación}):
+	\\\\
+	
+	\noindent
+	1. Podemos crear una (Partición de $O$) $= \{O_{1}, O_{2}, O_{3}, ...\}$\\
+	1b. El cardinal de la partición es $\aleph_{0}$: tenemos $\aleph_{0}$ subconjuntos disjuntos de O.
+	\\\\
+	
+	\noindent
+	2. Definimos un sistema de diferentes relaciones, usando $D$ como conjunto Dominio en cada una de ellas, y los diferentes $O_{k}$, $k \in \mathbb{N}$, como conjuntos Imagen de cada relación.\\
+	2b. Cada relación, del sistema, recibirá el nombre de:\\
+	$r_{O_{1}}, r_{O_{2}}, r_{O_{3}}, r_{O_{4}}, ..., r_{O_{k}}, ....$\\
+	2c. Siendo $r_{O_{k}}$ la relación que usa el subconjunto $O_{k}$ como conjunto Imagen.\\
+	2d. Aunque sean infinitas, enumerables, debemos buscar la forma de definir TODAS las relaciones. Sin alterarlas posteriormente.
+	\\\\
+	
+	\noindent
+	3. Para cualesquiera dos relaciones, $r_{O_{k}}$ y $r_{O_{k+1}}$, $r_{O_{k+1}}$ DEBE ser una MEJORA SUSTANCIAL (MS), respecto de $r_{O_{k}}$. Esto significa dos cosas:\\
+	3a) $NWSP(r_{O_{k}}) \supset NWSP(r_{O_{k+1}})$\\
+	3b) $  |NWSP(r_{O_{k}}) - NWSP(r_{O_{k+1}}) | = |D| $
+	\\\\
+	
+	\noindent
+	4. $$ \bigcap_{k=1}^{\infty} NWSP(r_{O_{k}}) = \emptyset $$
+	\\\\
+	
+	\noindent
+	5. ENTONCES podemos decir que el cardinal de D, NO ES MAYOR, que el cardinal de O.
+	
+	\subsection{Observaciones de la TPI}
+	
+	\noindent
+	Como los sucesivos $NWSP(r_{O_{k}})$ son subconjuntos anidados de $DXD$, el siguiente tiene EXACTAMENTE, no la misma cantidad, sino las mismas entidades, MENOS, unos cuantos elementos. Esta diferencia debe ser, como regla arbitraria, por seguridad, y porque podemos hacerlo, igual al cardinal del dominio. Si vamos a ``vaciar'' un conjunto cuyo cardinal es $DXD$, en algún momento deberemos empezar a quitar cantidades iguales al cardinal de D, si queremos acabar alguna vez. La regla de que sean anidados viene para asegurarnos de no dejarnos ningún D-par particular. Una vez resuelto un par, permanece SIEMPRE resuelto durante TODO el proceso de la TPI. Pero éste no es secuencial, es paralelo. Todas las $r_{O_{k}}$ deben ser definidas DE GOLPE, al mismo tiempo.
+	\\\\
+	
+	\noindent
+	El resultado final de vacío, significa que NINGÚN D-par concreto sobrevive al infinito proceso de chopping de $NWSP$. Para TODO D-par, a PARTIR de alguna $r_{O_{k}}$, dejará de aparecer en su conjunto $NWSP$. Habrá sido ``transferido'' a WSP. En la DI, el conjunto que nos marcaba el resultado de forma objetiva eran TODOS los Packs, aquí solo es uno, $NWSP$, que se va reduciendo y reduciendo, mientras $WSP$ va alcanzando la totalidad de pares. PERO A LA INVERSA DE LA DI, aquí ``ganamos '' si conseguimos ``vaciar'' NWSP. Ya que si NWSP se vacía, WSP es igual a $DXD$
+	\\\\
+	
+	\noindent
+	Si $\mathbb{N}$, o $LCF_{2p}$, actuando como el conjunto O, tienen un cardinal ABSURDAMENTE más pequeño que $P(\mathbb{N})$, o $SNEIs$, actuando como D, da igual que lo intentemos una o infinitas veces. NUNCA deberíamos estar cerca de ``resolver'' todos los pares. DEBE existir un límite, un tope, que no podamos sobrepasar. Si la cantidad de miembros indica la cantidad de D-pares que podemos resolver de $DXD$, y en TODAS LAS RELACIONES, solo usamos subconjuntos de $\mathbb{N}$, EL TOPE MÁXIMO de D-pares dentro de WSP debe ser muy concreto, pues TODAS las relaciones están PREDEFINIDAS. Y tienen la propiedad de tener conjuntos WSP y NWSP anidados... la siguiente resuelve TODOS los D-pares de las anteriores y algunos más. No en cantidad: las mismas entidades, los mismos D-pares. Su crecimiento debe parar... si no lo hace... debemos empezar a considerar que nos hemos equivocado al juzgar el cardinal de O, si antes decíamos que era menor que D.
+	\\\\
+	
+	\noindent
+	En vez de hablar de cardinal, hablamos de D-pares: sabiendo que resolverlos todos es tener, mínimo, el cardinal de D. El resultado final de vacío, mínimamente, nos indica una animación que parte de un ``cardinal'' difícil de definir, y acaba en el cardinal de D ( resolver todos los D-pares ). Pero en cada ``fotograma'' de la animación infinita usamos todo el rato subconjuntos de $\mathbb{N}$. Si lo niegas, al ser todas la relaciones PREDEFINIDAS, deberías poder mencionar un solo D-par, UNO SOLO, que sobrevive a todos los intentos de mejorar la relación. Pero el resultado de vacío te va a indicar que no existe, o aparecería en el resultado de la intersección infinita. RECORDEMOS que de los puntos 1 a 4, son CONDICIONES, que hay que ser capaz de construir para afirmar el 5 punto. Y vaya que si podremos construirlos!! (pero eso es otra historia).
+	\\\\
+	
+	\noindent
+	Otra cosa a tener en cuenta. Lo que estamos haciendo con la TPI es una especie de función por partes, solo que el Dominio de las sub-funciones, sub-relaciones, es siempre el mismo: D. Da igual si hacemos más grande el cardinal de D... la cuestión es que en cada subconjunto Imagen, de cada $r_{O_{k}}$, usamos un pedacito diferente de O... lo cual no altera su cardinal. Pueden haber dudas con D, pero no con O. Y no hacemos D precisamente más pequeño al repetir su uso. No hacemos trampas con el cardinal de O: cada conjunto Imagen es un subconjunto diferente de una partición de O, y las repeticiones dentro de cada relación están controladas por el conjunto NWSP, por definición. La condición de vacío, mezclada con la 3, nos sirve para estar seguros que WSP no crece sin parar, hasta un punto, que en realidad está lejano de la totalidad de D-pares. O evitar que nos hayamos olvidado algún D-par, durante el proceso, por haber sido desordenados al transferirlos a WSP. Da igual que estemos hablando de $\aleph_{1} X \aleph_{1}$.
+	\\\\
+	 
+	\noindent
+	Nos hayamos ante la misma problemática que en la DI:\\
+	¿Significa el resultado final de la intersección, de vacío, de todos los NWSP, que hemos vaciado NWSP? Solo que la respuesta que buscamos ahora, es totalmente inversa. Y este es el origen de todos los cortocircuitos. :D.
+	\\\\
 	
 	
+	
+	
+	\newpage
 	\section{Resultado increíble}
+	
+	\noindent
+	Tanto la DI como la TPI están construidas, HACE AÑOS YA. Las dos en realidad son el mismo fenómeno matemático innegable. Solo uso esos juegos para darle una definición lo más precisa posible. Como son en realidad, el mismo fenómeno (un extraño empate entre $SNEIs$ Y $LCF_{2p}$), ambas acaban en la misma situación: una intersección infinita de interpretación ambigua.
+	\\\\
+	
+	\noindent
+	Las condiciones de ambas intersecciones son idénticas, solo que en la DI, le sucede A TODOS los Packs\footnote{En paralelo a todos los $\aleph_{1}$ Packs, por como la construimos para el caso concreto. Eso permite fijarnos en un solo Pack. Le va a pasar algo similar, al resto, al mismo tiempo.}, y en la TPI le sucede a NWSP. Sólo cambia el tamaño de los subconjuntos anidados. En la DI es $\aleph_{0}$, y en la TPI es $\aleph_{1}$:\\\\
+	1) Sea B una forma genérica de llamar a un Pack cualquiera, o a NWSP, vamos a tener una lista infinita, con $\aleph_{0}$ miembros, de subconjuntos de B:\\
+	$B_{1}, B_{2}, ... , B_{k}, ...$\\\\
+	2) $ B_{k} \supset B_{k+1} $ \\\\
+	3) $$ \bigcap_{k=1}^{\infty} B_{k} = \emptyset $$\\\\
+	4) Como ya dije:\\
+	4a) En la DI \textrightarrow $|B_{k}| = \aleph_{0}$\\
+	4b) En la TPI \textrightarrow $|B_{k}| = \aleph_{1}$\\\\
+	5) (OPCIONAL)Tanto en la DI como en la TPI, existen ``Familias'' de D-pares. Juntas forman una partición de $Dominio X Dominio$. Y son también $\aleph_{0}$ subconjuntos disjuntos entre sí. Mientras en la TPI, la diferencia entre conjuntos NWSP es una Familia ENTERA cada vez... En la DI, al preguntar por un D-par, quitamos elementos de cada Pack, de una forma especial, consiguiendo que la Familia entera de ese D-par, y las anteriores, no tengan ni un solo Pack NO disjunto. O sea, cada D-par es un representante de una Familia, que es completamente eliminada del juego, por un motivo u otro. Eliminar (resolver) una Familia, significa eliminar a las anteriores. Hay $\aleph_{0}$ pasos en ambos casos, y $\aleph_{0}$ Familias de D-pares. Las ``mejoras sustanciales'' de la TPI, en la condición 3, son otra forma de describir lo que sucede en la DI y viceversa. No es diseño, es descripción. Lo que en la TPI llamamos $O_{k}$, son los universos $\theta_{k}$. Una partición de $LCF_{2p}$. Y si, como se dice en la TPI, hay $\aleph_{0}$ universos... en la DI, de TODOS los posibles Packs... vamos apartando TODOS sus miembros que pertenecen a un universo K concreto ( y los anteriores que todavía pululen por los Packs ). Con eso conseguimos ``resolver'' una Familia entera, nueva, y sus anteriores. ESE es el poder de la flja\_abstracta: los universos y las Familias de D-pares tiene una relación muy estrecha, pero en el sentido coloquial, no en el de relación matemática. :D. Pero esto hay que explicarlo con más detalle... si este punto te lía, ignóralo. Esto es la base de mi frase: ``Con $\aleph_{0}$ elementos puedo deshacerme de $\aleph_{1}$ problemáticas''. Con cada universo, puedo resolver una Familia entera.
+	\\\\
+	
+	\noindent
+	NADIE NIEGA QUE ESTO SUCEDE, la pregunta es: QUÉ significa eso??
+	\\\\
+	
+	\noindent
+	Si en la DI interpretamos que el resultado INNEGABLE de vacío implica que se vacían los Packs. Bien, perfecto. El Teorema de Cantor sigue vivo. Pero eso significa que NWSP se vacía. Mismas condiciones, misma interpretación. Si niegas que NWSP se vacía, porque cada NWSP está lejos de ser vacío, y siempre tiene cardinal infinito... PASA LO MISMO EN LA DI... Cada estado de los Packs, SIEMPRE tiene cardinal infinito. Si no se vacía NWSP, no se vacían los Packs.
+	\\\\
+	
+	\noindent
+	Para cada interpretación de una intersección infinita con esas condiciones, hay una construcción de un equivalente de una relación inyectiva IMPOSIBLE según el Teorema de Cantor. Da igual si no eres capaz de decidir cuál es la verdadera interpretación. ASEDIO!! :D. Hemos cubierto una serie de posibilidades, aunque no sabemos cual es la correcta de entre todas ellas. DA IGUAL, TODAS LO SON. Al igual que en el ejemplo sencillo de asedio, de la tabla de relaciones, del capítulo inicial, de $R_{1}$ a $R_{4}$ eran todas biyectivas. 
+	\\\\
+	
+	\noindent
+	Otra gracia, es que entre dos conjuntos con el mismo cardinal infinito es posible crear ambas construcciones. La verdadera contradicción surge de considerar que tienen cardinal transfinito diferente. Si tienen el mismo cardinal, es fácil conseguir una relación de mínimo 2 a 1 (DI), y aquí, aunque el documento es extenso, se explica como crear una TPI para dos conjuntos con cardinal $\aleph_{0}$:\\
+	https://vixra.org/abs/2209.0120\\
+	\\\\
+	
+	\noindent
+	No solo nos vale que una opción sea válida, o la otra. También nos vale que lo sean ambas. Un caso muy extraño sería que no significase ninguna de las dos: ni se vacía, ni NO se vacía. Cuesta hasta interpretarlo si no es una contradicción inaceptable por sí misma: o sea, da igual lo que interpretes,  no tiene sentido ni enunciarlo. Podríamos verlo como el inverso de cuando ambas se cumplen. Pero es un problema, porque al negar y doble negar, vuelve a ser el caso que ambas se cumplen. De todas formas, si insistimos, si uno no tiene sentido, el otro tampoco debería tenerlo. Para cubrir esa duda, y como la TPI es mi favorita, podemos recordar una propiedad: en la TPI, los subconjuntos de O, crecen en cardinalidad, desde un estado inicial indeterminado, hasta el supuesto cardinal de D. En una animación PERFECTA con $\aleph_{0}$ fotogramas. Pero en vez de estudiarlo mediante su cardinal directo, lo estudiamos por su habilidad de resolver D-pares. Crece SIN TOPE. Por eso es tan problemático el resultado final de vacío: garantiza que no hay tope.
+	\\\\
+	
+	\noindent
+	Es como la paradoja de la caja y las bolitas numeradas con los números naturales. En el primer paso, metemos los 10 primeros números naturales, pero luego sacamos solo el 1. En el segundo metemos los 10 siguientes, pero sacamos el dos. Vamos metiendo de diez en diez... pero sacamos las bolitas por orden numérico. En infinitos pasos. He leído discusiones al respecto. TODO el mundo opina sobre si se vacía la caja o no. O que es ambiguo, pero la duda está entre esos dos finales. Nadie opta por la versión de que se vacía y no se vacía, o por la de que ``no se vacía, ni no se vacía'' al mismo tiempo. Por analogía, si eres de los que crees que no se vacía, para tí funcionaría la DI. Si crees que se vacía, para tí funcionaría la TPI. En los tres casos, del ``potencial'' resto de elementos, de una serie con $\aleph_{0}$ pasos, vamos extrayendo un bolita cada vez. Solo que en la DI y la TPI, son ``cajitas'', en vez de bolitas, cada una conteniendo un subconjunto del conjunto estudiado, que nos ayuda a tomar una decisión objetiva del resultado. En vez de $\aleph_{0}$ bolitas, en orden, son $\aleph_{0}$ ``cajitas''... con las diferencias de los subconjuntos anidados. Y en los tres casos, el resultado final de vacío se justifica, quienes lo justifican, de la misma forma: todo elemento es ``extraído'', ``apartado'', o ``transferido'' a partir de un paso concreto.
+	\\\\
+	
+	\noindent
+	Pues eso. Tengo dos grupos de matemáticos que fuertemente defienden, con actitudes muy belicosas, para la DI aplicada a $SNEIs$ vs $LCF_{2p}$:\\
+	a1) Que da igual que en cada paso, los Packs siempre tengan cardinal infinito.\\
+	a2) Que el resultado final de vacío INDICA, claramente, que los Packs se vacían.\\
+	a3) Que es una tontería decir que un Pack siempre existe y tiene cardinal distinto de cero, si no puedes nombrar ni un solo elemento concreto que sobreviva al chopping infinito.
+	\\\\
+	
+	\noindent
+	Para la TPI aplicada al mismo caso, me dicen:\\
+	b1) ES SUPER IMPORTANTE que cada NWSP siempre tenga cardinal infinito.\\
+	b2) Podemos ignorar el resultado final de vacío de la intersección de todos ellos.\\
+	b3) SI PUEDE EXISTIR un conjunto, del que no puedas nombrar ni un solo elemento concreto y estés seguro, que todos van a salir de él, en algún paso del chopping. ``Conjuntos rotativos'' los llamaron. :D. Yo los llamaba parecido cuando defendía la DI. Uno de los fallos es no acordarse que tengo varias relaciones, sí, pero TODAS PREDEFINIDAS... no las adapto... como en la diagonalización $\mathbb{N}$ vs $\mathbb{R}$. No espero a que me digas algo y vuelvo a crear una nueva relación para adaptarme al elemento externo creado: están todas predefinidas y creadas sin hacer trampas con el cardinal del conjunto supuestamente inferior. Hasta le último par. Sin cambiar una coma.
+	\\\\
+	
+	\noindent
+	Ambas respuestas son argumentos míos. Ambas respuestas niegan una construcción y autorizan la otra. Y HABLAMOS DEL MISMO TIPO DE INTERSECCIONES. Y ambas respuestas, al mismo tiempo, no son palabras mías: sino de matemáticos en foros de internet.
+	\\\\
+	
+	\noindent
+	A uno incluso le pregunté, cuando le definí la TPI rápidamente, si esa imposibilidad de reducir los sub-estados de los subconjuntos NWSP, eran un indicativo de superioridad cardinal. Y me dijo claramente que SÍ. La gracia es que en la DI pasa lo mismo a la inversa... por muchos D-pares que preguntes, los Packs no bajan de cardinal infinito... y eso significaría, PARA ELLOS, que $\mathbb{N}$ tiene un cardinal superior estrictamente a $P(\mathbb{N})$.
+	\\\\
+	
+	\noindent
+	Cortocircuito. Solo ven que la otra posibilidad rompe el Teorema, así que la niegan sin pensar y me dejan de hablar. Por eso necesito juntarles en la misma habitación para que se escuchen unos a otros. O repetir el proceso con otros matemáticos. Se tardan cuatro horas y media.
+	\\\\
+	
+	\noindent
+	No sé si puedes verlo con descripciones tan escuetas, a pesar de que el documento me haya quedado largo. En la DI, cuántos más universos ``apartamos'' de los Packs, más Familias de D-pares resolvemos. Es super curioso!! Al apartar elementos, la apariencia cardinal ``crece''. En la TPI, cada universo por separado, en relaciones independientes, es capaz de ir creciendo hasta el cardinal de $\aleph_{1}$ como límite... SIN TOPE... al ser una partición, su unión forma O. No solo hay que pensar en como crecen, de forma individual, sino en la unión de todos. Un ejemplo análogo sería:\\
+	$O_{1}=\{0\}$\\
+	$O_{2}=\{1,2\}$\\
+	$O_{3}=\{3,4,5\}$\\
+	$O_{4}=\{6,7,8,9\}$\\
+	...\\
+	Ninguno tiene cardinal $\aleph_{0}$, pero juntos forman una lista de cardinalidades SIN TOPE hasta el cardinal de $\aleph_{0}$. La única forma de que O pueda alimentar ese crecimiento, de subconjuntos disjuntos, sin tope, es tener cardinal infinito... y ninguno por separado tiene cardinal $\aleph_{0}$, pero la unión de todos ellos sí :D. En la TPI hacemos lo mismo, solo que mirando su capacidad para resolver D-pares, en vez de poder observar su cardinal directo.
+	\\\\
+	
+	\noindent
+	Tantas observaciones apuntando a la misma idea... curiosidades maravillosas... y no te he contado todo ni de coña!
+	\\\\
+	
+	
+	\noindent
+	El Teorema de Cantor ya está muerto, solo que no le han avisado\footnote{Música de mariachis}.
+	
+	

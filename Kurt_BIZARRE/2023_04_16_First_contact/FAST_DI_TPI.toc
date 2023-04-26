@@ -30,7 +30,9 @@
 \contentsline {subsection}{\numberline {8.1.1}Observaciones de la DI}{25}{subsection.8.1.1}%
 \contentsline {section}{\numberline {8.2}TPI}{27}{section.8.2}%
 \contentsline {subsection}{\numberline {8.2.1}Definicones previas para entender la TPI}{27}{subsection.8.2.1}%
-\contentsline {section}{\numberline {8.3}$r_{2}$: 10 vs 2}{29}{section.8.3}%
-\contentsline {section}{\numberline {8.4}$r_{3}$: 10 vs 5}{31}{section.8.4}%
-\contentsline {section}{\numberline {8.5}$r_{4}$: 10 vs 9}{31}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Resultado increíble}{32}{section.8.6}%
+\contentsline {subsubsection}{$r_{2}$: 10 vs 2}{28}{section*.3}%
+\contentsline {subsubsection}{$r_{3}$: 10 vs 5}{29}{section*.4}%
+\contentsline {subsubsection}{$r_{4}$: 10 vs 9}{30}{section*.5}%
+\contentsline {subsection}{\numberline {8.2.2}TPI, definición}{31}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Observaciones de la TPI}{31}{subsection.8.2.3}%
+\contentsline {section}{\numberline {8.3}Resultado increíble}{33}{section.8.3}%
