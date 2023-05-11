@@ -19,21 +19,21 @@
 \contentsline {subsection}{\numberline {6.2.1}Punto 1}{15}{subsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.2.2}Punto 2}{15}{subsection.6.2.2}%
 \contentsline {subsubsection}{Añadido ignorable solo para dejar constancia}{16}{section*.2}%
-\contentsline {subsection}{\numberline {6.2.3}Punto 3}{16}{subsection.6.2.3}%
-\contentsline {chapter}{\numberline {7}Intento de Contexto Previo Mínimo}{18}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Relaciones no aplicación}{18}{section.7.1}%
-\contentsline {section}{\numberline {7.2}NAIVE CA theorem, sin demostración}{19}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Apreciaciones}{19}{subsection.7.2.1}%
-\contentsline {part}{III\hspace {1em}title}{20}{part.3}%
-\contentsline {section}{\numberline {7.3}Definición de 'resolver´}{21}{section.7.3}%
-\contentsline {chapter}{\numberline {8}DI, TPI, y el fenómeno actual que me está sucediendo}{23}{chapter.8}%
-\contentsline {section}{\numberline {8.1}DI:variante pelea de colegio}{23}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Observaciones de la DI}{26}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}TPI}{28}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Definicones previas para entender la TPI}{28}{subsection.8.2.1}%
-\contentsline {subsubsection}{$r_{2}$: 10 vs 2}{29}{section*.3}%
-\contentsline {subsubsection}{$r_{3}$: 10 vs 5}{30}{section*.4}%
-\contentsline {subsubsection}{$r_{4}$: 10 vs 9}{31}{section*.5}%
-\contentsline {subsection}{\numberline {8.2.2}TPI, definición}{32}{subsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.2.3}Observaciones de la TPI}{32}{subsection.8.2.3}%
-\contentsline {section}{\numberline {8.3}Resultado increíble}{34}{section.8.3}%
+\contentsline {subsection}{\numberline {6.2.3}Punto 3}{18}{subsection.6.2.3}%
+\contentsline {chapter}{\numberline {7}Intento de Contexto Previo Mínimo}{20}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Relaciones no aplicación}{20}{section.7.1}%
+\contentsline {section}{\numberline {7.2}NAIVE CA theorem, sin demostración}{21}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Apreciaciones}{21}{subsection.7.2.1}%
+\contentsline {part}{III\hspace {1em}title}{22}{part.3}%
+\contentsline {section}{\numberline {7.3}Definición de 'resolver´}{23}{section.7.3}%
+\contentsline {chapter}{\numberline {8}DI, TPI, y el fenómeno actual que me está sucediendo}{25}{chapter.8}%
+\contentsline {section}{\numberline {8.1}DI:variante pelea de colegio}{25}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Observaciones de la DI}{28}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}TPI}{30}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Definicones previas para entender la TPI}{30}{subsection.8.2.1}%
+\contentsline {subsubsection}{$r_{2}$: 10 vs 2}{31}{section*.3}%
+\contentsline {subsubsection}{$r_{3}$: 10 vs 5}{32}{section*.4}%
+\contentsline {subsubsection}{$r_{4}$: 10 vs 9}{33}{section*.5}%
+\contentsline {subsection}{\numberline {8.2.2}TPI, definición}{34}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Observaciones de la TPI}{34}{subsection.8.2.3}%
+\contentsline {section}{\numberline {8.3}Resultado increíble}{36}{section.8.3}%
