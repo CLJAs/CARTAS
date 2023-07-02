@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  11 MAY 2023 05:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  2 JUL 2023 19:53
 entering extended mode
 **./FAST_DI_TPI.tex
 (FAST_DI_TPI.tex
@@ -1036,20 +1036,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--58
 
  []
 
-[21] [22
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--74
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
@@ -1064,6 +1057,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--74
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
@@ -1094,10 +1092,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--83
  []
 
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 90.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 92--95
 
  []
@@ -1114,50 +1108,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+[22]) (CAP_III_TPI_DI_ESP.tex
+Underfull \hbox (badness 10000) in paragraph at lines 112--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--1
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
-
- []
-
-) (CAP_III_TPI_DI_ESP.tex
-Underfull \hbox (badness 10000) in paragraph at lines 112--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--1
-
- []
-
-[24]
 C.- 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--11
@@ -1189,7 +1183,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-<./Imagenes//Distribucion_001_A.png, id=293, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_001_A.png, id=284, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_001_A.png Graphic file (type png)
 <use ./Imagenes//Distribucion_001_A.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_001_A.png  used on input line
@@ -1210,10 +1204,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--24
 
  []
 
-[25
+[24
 
 ]
-<./Imagenes//Distribucion_001_B.png, id=303, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_001_B.png, id=293, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_001_B.png Graphic file (type png)
 <use ./Imagenes//Distribucion_001_B.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_001_B.png  used on input line
@@ -1244,7 +1238,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--33
 
  []
 
-[26 <./Imagenes//Distribucion_001_A.png> <./Imagenes//Distribucion_001_B.png>]
+[25 <./Imagenes//Distribucion_001_A.png> <./Imagenes//Distribucion_001_B.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 34--37
 
  []
@@ -1254,7 +1248,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--37
 
  []
 
-<./Imagenes//Distribucion_001_C.png, id=310, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_001_C.png, id=301, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_001_C.png Graphic file (type png)
 <use ./Imagenes//Distribucion_001_C.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_001_C.png  used on input line
@@ -1280,7 +1274,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--45
 
  []
 
-<./Imagenes//Distribucion_002_A.png, id=311, 593.57051pt x 430.43161pt>
+<./Imagenes//Distribucion_002_A.png, id=302, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_002_A.png Graphic file (type png)
 <use ./Imagenes//Distribucion_002_A.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_002_A.png  used on input line
@@ -1296,8 +1290,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--49
 
  []
 
-[27 <./Imagenes//Distribucion_001_C.png> <./Imagenes//Distribucion_002_A.png>]
-<./Imagenes//Distribucion_002_B.png, id=318, 593.57051pt x 430.43161pt>
+[26 <./Imagenes//Distribucion_001_C.png> <./Imagenes//Distribucion_002_A.png>]
+<./Imagenes//Distribucion_002_B.png, id=309, 593.57051pt x 430.43161pt>
 File: ./Imagenes//Distribucion_002_B.png Graphic file (type png)
 <use ./Imagenes//Distribucion_002_B.png>
 Package pdftex.def Info: ./Imagenes//Distribucion_002_B.png  used on input line
@@ -1358,7 +1352,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--82
 
  []
 
-[28 <./Imagenes//Distribucion_002_B.png>]
+[27 <./Imagenes//Distribucion_002_B.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 83--86
 
  []
@@ -1418,7 +1412,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--112
 
  []
 
-[29]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 121--135
 
  []
@@ -1493,7 +1487,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
-[30]
+[29]
 Underfull \hbox (badness 10000) in paragraph at lines 159--162
 
  []
@@ -1528,7 +1522,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--207
 
  []
 
-[31]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 220--226
 
  []
@@ -1583,7 +1577,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--279
 
  []
 
-[32]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 292--299
 
  []
@@ -1603,237 +1597,237 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--310
 
  []
 
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--353
+
+ []
+
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 314--317
+Underfull \hbox (badness 10000) in paragraph at lines 354--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--317
+Underfull \hbox (badness 10000) in paragraph at lines 354--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--322
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--322
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--330
+Underfull \hbox (badness 10000) in paragraph at lines 362--365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--330
+Underfull \hbox (badness 10000) in paragraph at lines 362--365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--336
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--336
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--340
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--340
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--353
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--353
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
 
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 354--357
+Underfull \hbox (badness 10000) in paragraph at lines 377--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--357
+Underfull \hbox (badness 10000) in paragraph at lines 377--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--361
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--361
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--365
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--365
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--370
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--370
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--396
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--396
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 377--380
+Underfull \hbox (badness 10000) in paragraph at lines 401--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--380
+Underfull \hbox (badness 10000) in paragraph at lines 401--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--386
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--386
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--386
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--392
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--392
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--392
+Underfull \hbox (badness 10000) in paragraph at lines 414--417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--392
+Underfull \hbox (badness 10000) in paragraph at lines 414--417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--396
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--396
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--400
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--400
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
 
  []
 
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 401--404
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 401--404
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--409
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--409
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--409
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 410--413
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 410--413
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--417
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--417
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--424
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--424
-
- []
-
-[37]
 Underfull \hbox (badness 10000) in paragraph at lines 425--431
 
  []
@@ -1893,18 +1887,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 454--457
 
  []
 
-[38]) [39] (FAST_DI_TPI.aux
+[37]) [38] (FAST_DI_TPI.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `FAST_DI_TPI.out' has not changed.
-(rerunfilecheck)             Checksum: 1C4115EC7A90C345D36D703DF622398E;5448.
+(rerunfilecheck)             Checksum: EFDD28EBC95657282911FF3D00D87A0B;5361.
  ) 
 Here is how much of TeX's memory you used:
- 13493 strings out of 478927
- 209937 string characters out of 2850640
- 636035 words of memory out of 3000000
- 31005 multiletter control sequences out of 15000+600000
+ 13490 strings out of 478927
+ 209916 string characters out of 2850640
+ 636032 words of memory out of 3000000
+ 31004 multiletter control sequences out of 15000+600000
  414717 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,17n,81p,2603b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1942,9 +1936,9 @@ pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users
 pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/symbols/msbm10.pfb>
-Output written on FAST_DI_TPI.pdf (39 pages, 668095 bytes).
+Output written on FAST_DI_TPI.pdf (38 pages, 666645 bytes).
 PDF statistics:
- 530 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 520 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
 
