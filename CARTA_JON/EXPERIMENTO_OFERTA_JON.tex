@@ -1,0 +1,78 @@
+\documentclass[notitlepage]{report}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+
+%Para usar colores en las tablas:
+\usepackage{color}
+%\usepackage{graphicx} DUPLICADO
+\usepackage{epsfig}
+\usepackage{multirow}
+\usepackage{colortbl}
+\usepackage[table]{xcolor}
+%Fin de paquetes para usar colores en las tablas
+
+
+\usepackage{titling}
+%\usepackage{lipsum}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\setlength{\parskip}{2mm}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{comment}
+\graphicspath{ {./Imagenes/} } 
+
+%Definiendo colores:
+\definecolor{lightgray}{gray}{0.9}
+\definecolor{myblue}{RGB}{180,241,231}
+\definecolor{myred}{RGB}{241,121,108}
+\definecolor{myyellow}{RGB}{245,239,122}
+%Fin de definicion de colores:
+
+
+\pretitle{\begin{center}\Huge\bfseries}
+	\posttitle{\par\end{center}\vskip 0.5em}
+\preauthor{\begin{center}\Large\ttfamily}
+	\postauthor{\end{center}}
+\predate{\par\large\centering}
+\postdate{\par}
+
+\title{Petición sobre experimento relacionado con Cantor}
+\author{Juan Carlos Caso Alonso}
+\date{\today}
+%\date{19 January/Enero 2023}
+
+%\renewcommand{\chaptername}{C.-}
+%\usepackage{fancyhdr}
+
+\addto\captionsspanish{\renewcommand{\chaptername}{Capítulo}}
+
+\begin{document}
+	\maketitle
+	\thispagestyle{empty}
+	
+	%\input{./abstract.tex}
+	
+	\addtocontents{toc}{\hspace{-7.5mm} \textbf{Capítulos}}
+	\addtocontents{toc}{\hfill \textbf{P\'agina} \par}
+	\addtocontents{toc}{\vspace{-2mm} \hspace{-7.5mm} \hrule \par}
+
+	\tableofcontents
+	
+	\part{Español}
+	\input{./ES_Introduccion.tex}
+	\input{./ES_Garantias.tex}
+	\input{./ES_Experimento_VS_Paper.tex}
+	\input{./ES_Experimento.tex}
+	
+	\part{English}
+	\input{./ES_Introduccion.tex}
+	%\input{./Peticion.tex}
+	%\input{./Fases.tex}
+	%\input{./Usos.tex}
+	%\input{./Garantias.tex}
+\end{document}
