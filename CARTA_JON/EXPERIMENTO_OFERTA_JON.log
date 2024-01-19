@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  6 JAN 2024 01:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  6 JAN 2024 11:42
 entering extended mode
 **./EXPERIMENTO_OFERTA_JON.tex
 (EXPERIMENTO_OFERTA_JON.tex
@@ -6,8 +6,8 @@ LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (C:\Users\Fistroman\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\Fistroman\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+(C:\Users\Fistroman\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@chapter=\count183
@@ -510,12 +510,12 @@ LaTeX Font Info:    ... okay on input line 54.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -596,11 +596,9 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@toc=\write5
 \openout5 = `EXPERIMENTO_OFERTA_JON.toc'.
 
- [2
+ (ES_Introduccion.tex [2
 
-] [3
-
-] (ES_Introduccion.tex
+]
 Capítulo 1.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 (C:\Users\Fistroman\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -611,28 +609,28 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 (C:\Users\Fistroman\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[4
+[3
 
-]) (ES_Garantias.tex
+] [4]) (ES_Garantias.tex
 Underfull \hbox (badness 10000) in paragraph at lines 19--1
 
  []
 
 [5]
 Capítulo 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--40
-
- []
-
 [6
 
-] [7]) (ES_Experimento_VS_Paper.tex [8]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 21--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--40
+
+ []
+
+[7] [8]) (ES_Experimento_VS_Paper.tex [9]
 Capítulo 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--17
@@ -664,13 +662,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--17
 
  []
 
-) (ES_Experimento.tex [9
-
-]
-Capítulo 4.
 [10
 
-] [11]
+]) (ES_Experimento.tex [11]
+Capítulo 4.
+[12
+
+] [13] [14]
 Underfull \hbox (badness 10000) in paragraph at lines 62--75
 
  []
@@ -720,44 +718,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--75
 
  []
 
-[12]) (ES_Condiciones.tex [13]
+[15]) (ES_Condiciones.tex [16]
 Capítulo 5.
-[14
+[17
 
-]) [15] (EXPERIMENTO_OFERTA_JON.aux
+]) [18] (EXPERIMENTO_OFERTA_JON.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `EXPERIMENTO_OFERTA_JON.out' has not changed.
 
-(rerunfilecheck)             Checksum: 774B5E3935C182645FA165F2D0619194;682.
+(rerunfilecheck)             Checksum: C148571D24B2F164AC1F366AEC3D6F7C;560.
  ) 
 Here is how much of TeX's memory you used:
- 12894 strings out of 478927
- 195869 string characters out of 2850640
- 537853 words of memory out of 3000000
- 30514 multiletter control sequences out of 15000+600000
- 407721 words of font info for 44 fonts, out of 8000000 for 9000
+ 12912 strings out of 478927
+ 196071 string characters out of 2850640
+ 534879 words of memory out of 3000000
+ 30523 multiletter control sequences out of 15000+600000
+ 409754 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,80p,1727b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,6n,80p,1727b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Fistroman/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Fistroman/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Fist
-roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr7.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Fist
-roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.
-pfb>
-Output written on EXPERIMENTO_OFERTA_JON.pdf (15 pages, 177955 bytes).
+/cm/cmbx12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Fistroman/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Fistroman/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Fistr
+oman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmtt12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/symbols/msam10.pfb><C:/Users/Fistroman/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on EXPERIMENTO_OFERTA_JON.pdf (18 pages, 150438 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
